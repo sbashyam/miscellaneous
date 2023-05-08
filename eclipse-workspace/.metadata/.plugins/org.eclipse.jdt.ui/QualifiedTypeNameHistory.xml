@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="com.Srinivasan.product.dao.DAO"/>
+    <fullyQualifiedTypeName name="com.Srinivasan.product.dao.DAOimpl"/>
+    <fullyQualifiedTypeName name="boimply.bo.BOimply"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="com.Srinivasan.product.dao.ProductDAOimpl"/>
+    <fullyQualifiedTypeName name="com.Srinivasan.product.dao.ProductDAO"/>
+    <fullyQualifiedTypeName name="com.Srinivasan.product.servlet.CreateProductServlet"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="com.Srinivasan.product.dto.Product"/>
+    <fullyQualifiedTypeName name="com.Srinivasan.product.bo.ProductBoimpl"/>
+    <fullyQualifiedTypeName name="com.Srinivasan.product.bo.ProductBo"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+</qualifiedTypeNameHistroy>

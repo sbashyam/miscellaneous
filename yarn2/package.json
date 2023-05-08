@@ -1,0 +1,15 @@
+{
+  "name": "yarn2",
+  "version": "1.0.0",
+  "description": "Simple OS info",
+  "main": "yarn.js",
+  "repository": "htttps://github.com/myrepo-to-add-later",
+  "author": "Srini",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "true5.2.0",
+    "yarn": "true1.22.19",
+    "yarn2": "true1.0.0"
+  },
+  "type": "module"
+}

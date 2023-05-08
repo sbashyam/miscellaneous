@@ -1,0 +1,5 @@
+package com.Srinivasan.product.dao;
+
+public interface ProductDAO {
+
+}

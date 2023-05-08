@@ -1,0 +1,5 @@
+package com.Srinivasan.product.bo;
+
+public interface ProductBo {
+
+}

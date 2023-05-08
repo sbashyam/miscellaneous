@@ -1,0 +1,8 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.Srinivasan.product.dao.DAO"><rhs name\="com.Srinivasan.product.dao.DAOimpl"/></lhs><lhs name\="com.Srinivasan.product.dto.Product"><rhs name\="com.Srinivasan.product.dto.Product"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="java.lang.Integer"/></lhs><lhs name\="java.lang.constant.ConstantDesc"><rhs name\="java.lang.Integer"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Integer"/></lhs><lhs name\="productbusiness.bo.ProductBusiness"><rhs name\="boimply.bo.BOimply"/></lhs><lhs name\="boimply.bo.BOimply"><rhs name\="boimply.bo.BOimply"/></lhs><lhs name\="com.Srinivasan.product.dao.ProductDAO"><rhs name\="com.Srinivasan.product.dao.ProductDAOimpl"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
